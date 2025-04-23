@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a MSc Computer Engineering student at "Università degli studi di Napoli Federico II".<br>Currently, I'm majoring in Machine Learning and Computer Vision.<br>My favourite programming languages are C++ and Python.<br>I use Latex to take notes for courses.
+I'm a BSc Computer Engineer.
 
 
 ## 🌐 Socials:
