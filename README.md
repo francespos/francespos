@@ -28,7 +28,3 @@ Francesco Esposito here.
                                           <font color="#0000EE"><b>Battery (01AV424)</b></font>: <font color="#00CD00">96%</font> [AC Connected]
                                           <font color="#0000EE"><b>Battery (01AV421)</b></font>: <font color="#00CD00">65%</font> [Discharging]
                                           <font color="#0000EE"><b>Locale</b></font>: en_US.UTF-8
-
-                                          <span style="background-color:#000000">   </span><span style="background-color:#CD0000">   </span><span style="background-color:#00CD00">   </span><span style="background-color:#CDCD00">   </span><span style="background-color:#0000EE">   </span><span style="background-color:#CD00CD">   </span><span style="background-color:#00CDCD">   </span><span style="background-color:#E5E5E5">   </span>
-                                          <span style="background-color:#7F7F7F">   </span><span style="background-color:#FF0000">   </span><span style="background-color:#00FF00">   </span><span style="background-color:#FFFF00">   </span><span style="background-color:#5C5CFF">   </span><span style="background-color:#FF00FF">   </span><span style="background-color:#00FFFF">   </span><span style="background-color:#FFFFFF">   </span>
-</pre>
